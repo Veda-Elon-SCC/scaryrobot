@@ -1,0 +1,40 @@
+/* web settings */
+
+html {
+    background-color:#777;
+}
+
+div.wrapper {
+    background-color:#CCC;
+    width:90%;
+    margin:auto;
+    overflow:auto;
+}
+
+footer {
+    clear:both;
+    text-align: center;
+    font-family: sans-serif;
+    padding:1em;
+}
+
+header{
+    clear:both;
+    text-align: center;
+    font-family: sans-serif;
+    padding:1em;
+}
+
+p {
+    clear:both;
+    text-align: center;
+    font-family: sans-serif;
+    padding:1em;    
+}
+
+section {
+    clear:both;
+    text-align: center;
+    font-family: sans-serif;
+    padding:1em; 
+}
